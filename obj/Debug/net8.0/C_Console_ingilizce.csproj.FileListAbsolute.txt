@@ -1,0 +1,14 @@
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/C_Console_ingilizce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/C_Console_ingilizce.AssemblyInfoInputs.cache
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/C_Console_ingilizce.AssemblyInfo.cs
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/C_Console_ingilizce.csproj.CoreCompileInputs.cache
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/bin/Debug/net8.0/C_Console_ingilizce
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/bin/Debug/net8.0/C_Console_ingilizce.deps.json
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/bin/Debug/net8.0/C_Console_ingilizce.runtimeconfig.json
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/bin/Debug/net8.0/C_Console_ingilizce.dll
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/bin/Debug/net8.0/C_Console_ingilizce.pdb
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/C_Console_ingilizce.dll
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/refint/C_Console_ingilizce.dll
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/C_Console_ingilizce.pdb
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/C_Console_ingilizce.genruntimeconfig.cache
+/Users/mumineaisedemiral/Desktop/proje_c+/C_Console_ingilizce/C_Console_ingilizce/obj/Debug/net8.0/ref/C_Console_ingilizce.dll
